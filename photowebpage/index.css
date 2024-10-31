@@ -1,0 +1,319 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open S
+    
+}
+
+li,button{
+    display:inline;
+    margin:20px;
+}
+#l{
+    margin: 5px 100px;
+    
+}
+.li{
+   
+    font-size: 20px;
+}
+
+.li1{
+    margin:5%;
+  font-size: 25px;
+}
+
+.btn{
+    margin:5px 3px 5px 30px;
+}
+#btn5{
+   
+    border:3px solid skyblue;
+    padding: 5px 30px;
+    border-radius: 10px;
+    margin-right:2px;
+    color: #0088cc;
+   
+}
+#btn1{
+    background-color:#0088cce5;
+    color: white;
+    padding: 5px 30px;
+    border-radius: 10px;
+    margin-left:5px;
+    border:none;
+    
+    }
+    #h1{
+        font-size: 20px;
+        padding:5px;
+        margin:30px;
+        width: 700px;
+    }
+    #img {
+         text-align: center;
+         padding-top: 300px;
+        background-image: url('downop.jfif');
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        
+      }
+      
+     
+      
+      #img button{
+        background-color: #0088cc;
+        border:none;
+        color:white;
+      border-radius: 5px;
+     padding: 10px;  
+        
+      }
+      #con ,#con1,#con2 ,#con3{
+        width:600px;
+        height: 300px;
+        font-size: 20px;
+        margin:20px 20px 5px 30px;
+        padding:10px;
+        display:inline-block;
+      }
+      #con p,  #con1 p,#con2 p,  #con3 p{
+        font-family: sans-serif;
+        padding:15px;
+        line-height:1.5 ;
+      }
+      #con button,#con1 button,#con2 button,#con3 button{
+        background-color:#0088cc;
+        border:none;
+        padding: 10px 20px;
+        color:white;
+        border-radius: 5px;
+    }
+    .pd{
+        width:100%;
+        height:100px;
+        background-color:silver;
+    }
+   #p1{
+    text-align: center;
+    padding:20px;
+    margin:20px;
+}
+#page2{
+    width:100%;
+    height:800px;
+}
+#p1 p{
+    font-size: 15px;
+    padding:30px 20%;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+#p2 h2{
+    padding: 30px 50px;
+}
+#p2 p{
+    padding: 10px 50px;
+    font-size: 15px;
+}
+#im{
+    float:right;
+    width: 800px;
+    height:100;
+    padding:20px;
+}
+#part1 {
+    text-align: center;
+    padding:20px;
+    margin:20px;
+}
+#part1 p{
+    font-size: 15px;
+    padding:30px 20%;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+#page3{
+    width:100%;
+    height:700px;
+}
+#pic1,#pic2,#pic3{
+    width:300px;
+    height:400px;
+    display: inline-block;
+    border:1px solid black;
+   
+   margin-left: 7%;
+}
+#pic1 h2,#pic2 h2,#pic3 h2{
+   text-align: center;
+   margin: 10px;
+}
+#pic1 p,#pic2 p,#pic3 p{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 5px;
+}
+#f1{
+    text-align: center;
+    padding:20px;
+    margin:20px;
+}
+#f1 p{
+    font-size: 25px;
+    padding:30px 20%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: normal;
+}
+#sign{
+    border: 1px solid black ;
+    text-align: left;
+    padding-left: 5px;
+    width: 500px;
+    height:350px;
+    margin:5px auto;
+}
+#page4{
+    width:100%;
+    height:700px;
+}
+
+#sign h1{
+    padding-left: 30px ;
+    padding-top: 30px;
+}
+#fn{
+   margin: 30px;
+   padding: 5px;
+   margin-left: 50px;
+   margin-right: 5px;
+}
+#ln{
+    margin-left: 5px;
+    padding: 5px;
+ }
+
+#em{
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 5px;
+}
+#pn{
+    padding:5px;
+    margin-left: 5px;
+}
+#pass{
+    margin-top: 25px;
+    margin-left: 50px;
+    padding:7px 22%;
+    
+}
+#btn{
+    color:white;
+    background-color: #0088cc;
+    border:none;
+    margin-top: 20px;
+    padding:10px 20px;
+    margin-left: 50px;
+}
+#address li{
+    display: inline-block;
+    padding-left: 50px;
+  
+
+}
+#address h2{
+   margin-right: 400px;
+   
+}
+#head{
+    margin-bottom: 10px;
+    height: 50px;
+    
+}
+
+
+#item{
+    margin-left: 580px;
+    height: 50px;
+    
+    }
+
+#item1{
+    margin-left: 580px;
+    height: 30px;
+}
+
+#item2{
+    margin-left: 580px;
+}
+
+#address{
+    
+    background-color: black;
+    color:white;
+    height: 300px;
+}
+
+
+
+#line{
+    border: 1px solid white;
+    margin: 0 30px;
+}
+#end{
+    padding: 20px;
+}
+#icon li{
+    display: inline-block;
+   
+}
+#icon p{
+   margin-right: 300px; 
+}
+ #img2{
+    margin-left: 1px;
+    margin-right: 2px;
+}
+#img3{
+    margin-left: 1px;
+    margin-right: 2px;
+} 
+#img4{
+    margin-left: 1px;
+    margin-right: 2px;
+}
+#follow{
+    margin-right:1px;
+    font-size: 15px;
+}
+#reg{
+    background-color: #0088cc;
+    border: none;
+    padding:5px 34px;
+    border-radius: 5px;
+    color:white;
+    margin-left: 1px;
+}
+#item button{
+    color:#0088cc;
+    padding:2px 34px;
+    border-radius: 5px;
+    border:2px solid #0088cc;
+}
+#aboutus{
+    margin-left:0px;
+}
+
+#portal{
+    margin-right:30px ;
+    margin-left: 28px;
+}
+#feat{
+    margin-right:32px ;
+    margin-left: 30px;
+}
+#live{
+    margin-left: 15px;
+}
