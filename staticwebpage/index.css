@@ -183,6 +183,7 @@ margin-top: 20px;
 #pictures{
     display: flex;
     flex-wrap: wrap;
+    row-gap:20px;
 }
 #pic1,#pic2,#pic3{
     text-align: center;
@@ -272,6 +273,7 @@ margin-top: 20px;
     padding:10px 20px;
     margin-left: 50px;
 }
+
 
 
 
